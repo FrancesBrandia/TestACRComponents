@@ -1,0 +1,30 @@
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+
+:root {
+  
+  /* fonts */
+  --font-roboto: Roboto;
+  -webkit-font-smoothing: antialiased; 
+  
+  /* font sizes */
+  --font-size-base: 1rem;
+  
+  /* Colors */
+  --information-notice-text-title: #0e2a65;
+  --acrsaas-acrsaas-1000: #2268fd;
+  --acrwhite-acrw-100: #fff;
+  --disconnected-offline-surface-disabled: #ebeaef;
+  --disconnected-offline-text-body: #1b1449;
+  
+  /* Paddings */
+  --padding-base: 1rem;
+  
+  /* Border radiuses */
+  --br-9xs: 4px;
+  
+}
